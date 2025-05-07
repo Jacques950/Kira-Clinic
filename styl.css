@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color: hsl(0, 0%, 97%);
+}
+.nav ,ul ,li ,a{
+    text-align: right;
+    list-style: none;
+    display:flex ;
+    margin-left: 30px;
+    text-decoration: none;
+    color: #000;
+    front-weight:bold;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.bg{
+    background-image: ("hosptal.jpg");
+}
